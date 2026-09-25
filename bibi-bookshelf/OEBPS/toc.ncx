@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+<head>
+<meta content="3143681256" name="dtb:uid"/>
+<meta content="3" name="dtb:depth"/>
+<meta content="mobiunpack.py" name="dtb:generator"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>来自新世界（全2册）</text>
+</docTitle>
+<navMap>
+    <navPoint id="np_1" playOrder="1">
+    <navLabel>
+    <text>版权信息</text>
+    </navLabel>
+    <content src="Text/part0000.xhtml"/>
+    </navPoint>
+    <navPoint id="np_2" playOrder="2">
+    <navLabel>
+    <text>Digital Lab简介</text>
+    </navLabel>
+    <content src="Text/part0001.xhtml"/>
+    </navPoint>
+    <navPoint id="np_3" playOrder="3">
+    <navLabel>
+    <text>来自新世界（上）</text>
+    </navLabel>
+    <content src="Text/part0003.xhtml"/>
+      <navPoint id="np_4" playOrder="4">
+      <navLabel>
+      <text>Ⅰ. 新芽的季节</text>
+      </navLabel>
+      <content src="Text/part0004.xhtml"/>
+        <navPoint id="np_5" playOrder="5">
+        <navLabel>
+        <text>1</text>
+        </navLabel>
+        <content src="Text/part0004.xhtml#isbn9787532763863_1_1_1"/>
+        </navPoint>
+        <navPoint id="np_6" playOrder="6">
+        <navLabel>
+        <text>2</text>
+        </navLabel>
+        <content src="Text/part0005.xhtml#cha2_2_1"/>
+        </navPoint>
+        <navPoint id="np_7" playOrder="7">
+        <navLabel>
+        <text>3</text>
+        </navLabel>
+        <content src="Text/part0006.xhtml#cha3_3_1"/>
+        </navPoint>
+        <navPoint id="np_8" playOrder="8">
+        <navLabel>
+        <text>4</text>
+        </navLabel>
+        <content src="Text/part0007.xhtml#cha4_4_1"/>
+        </navPoint>
+        <navPoint id="np_9" playOrder="9">
+        <navLabel>
+        <text>5</text>
+        </navLabel>
+        <content src="Text/part0008.xhtml#cha5_5_1"/>
+        </navPoint>
+        <navPoint id="np_10" playOrder="10">
+        <navLabel>
+        <text>6</text>
+        </navLabel>
+        <content src="Text/part0009.xhtml#cha6_6_1"/>
+        </navPoint>
+        <navPoint id="np_11" playOrder="11">
+        <navLabel>
+        <text>7</text>
+        </navLabel>
+        <content src="Text/part0010.xhtml#cha7_7_1"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_12" playOrder="12">
+      <navLabel>
+      <text>Ⅱ. 夏闇</text>
+      </navLabel>
+      <content src="Text/part0011.xhtml"/>
+        <navPoint id="np_13" playOrder="13">
+        <navLabel>
+        <text>1</text>
+        </navLabel>
+        <content src="Text/part0011.xhtml#isbn9787532763863_1_8_1"/>
+        </navPoint>
+        <navPoint id="np_14" playOrder="14">
+        <navLabel>
+        <text>2</text>
+        </navLabel>
+        <content src="Text/part0012.xhtml#cha9_9_1"/>
+        </navPoint>
+        <navPoint id="np_15" playOrder="15">
+        <navLabel>
+        <text>3</text>
+        </navLabel>
+        <content src="Text/part0013.xhtml#cha10_10_1"/>
+        </navPoint>
+        <navPoint id="np_16" playOrder="16">
+        <navLabel>
+        <text>4</text>
+        </navLabel>
+        <content src="Text/part0014.xhtml#cha11_11_1"/>
+        </navPoint>
+        <navPoint id="np_17" playOrder="17">
+        <navLabel>
+        <text>5</text>
+        </navLabel>
+        <content src="Text/part0015.xhtml#cha12_12_1"/>
+        </navPoint>
+        <navPoint id="np_18" playOrder="18">
+        <navLabel>
+        <text>6</text>
+        </navLabel>
+        <content src="Text/part0016.xhtml#cha13_13_1"/>
+        </navPoint>
+        <navPoint id="np_19" playOrder="19">
+        <navLabel>
+        <text>7</text>
+        </navLabel>
+        <content src="Text/part0017.xhtml#cha14_14_1"/>
+        </navPoint>
+        <navPoint id="np_20" playOrder="20">
+        <navLabel>
+        <text>8</text>
+        </navLabel>
+        <content src="Text/part0018.xhtml#cha15_15_1"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_21" playOrder="21">
+      <navLabel>
+      <text>Ⅲ. 深秋</text>
+      </navLabel>
+      <content src="Text/part0019.xhtml"/>
+        <navPoint id="np_22" playOrder="22">
+        <navLabel>
+        <text>1</text>
+        </navLabel>
+        <content src="Text/part0019.xhtml#isbn9787532763863_1_16_1"/>
+        </navPoint>
+        <navPoint id="np_23" playOrder="23">
+        <navLabel>
+        <text>2</text>
+        </navLabel>
+        <content src="Text/part0020.xhtml#cha17_17_1"/>
+        </navPoint>
+        <navPoint id="np_24" playOrder="24">
+        <navLabel>
+        <text>3</text>
+        </navLabel>
+        <content src="Text/part0021.xhtml#cha18_18_1"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_25" playOrder="25">
+    <navLabel>
+    <text>来自新世界（下）</text>
+    </navLabel>
+    <content src="Text/part0022.xhtml"/>
+      <navPoint id="np_26" playOrder="26">
+      <navLabel>
+      <text>Ⅳ. 冬之远雷</text>
+      </navLabel>
+      <content src="Text/part0023.xhtml"/>
+        <navPoint id="np_27" playOrder="27">
+        <navLabel>
+        <text>1</text>
+        </navLabel>
+        <content src="Text/part0023.xhtml#isbn9787532763863_2_19_1"/>
+        </navPoint>
+        <navPoint id="np_28" playOrder="28">
+        <navLabel>
+        <text>2</text>
+        </navLabel>
+        <content src="Text/part0024.xhtml#cha20_20_1"/>
+        </navPoint>
+        <navPoint id="np_29" playOrder="29">
+        <navLabel>
+        <text>3</text>
+        </navLabel>
+        <content src="Text/part0025.xhtml#cha21_21_1"/>
+        </navPoint>
+        <navPoint id="np_30" playOrder="30">
+        <navLabel>
+        <text>4</text>
+        </navLabel>
+        <content src="Text/part0026.xhtml#cha22_22_1"/>
+        </navPoint>
+        <navPoint id="np_31" playOrder="31">
+        <navLabel>
+        <text>5</text>
+        </navLabel>
+        <content src="Text/part0027.xhtml#cha23_23_1"/>
+        </navPoint>
+        <navPoint id="np_32" playOrder="32">
+        <navLabel>
+        <text>6</text>
+        </navLabel>
+        <content src="Text/part0028.xhtml#cha24_24_1"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_33" playOrder="33">
+      <navLabel>
+      <text>Ⅴ. 劫火</text>
+      </navLabel>
+      <content src="Text/part0029.xhtml"/>
+        <navPoint id="np_34" playOrder="34">
+        <navLabel>
+        <text>1</text>
+        </navLabel>
+        <content src="Text/part0029.xhtml#isbn9787532763863_2_25_1"/>
+        </navPoint>
+        <navPoint id="np_35" playOrder="35">
+        <navLabel>
+        <text>2</text>
+        </navLabel>
+        <content src="Text/part0030.xhtml#cha26_26_1"/>
+        </navPoint>
+        <navPoint id="np_36" playOrder="36">
+        <navLabel>
+        <text>3</text>
+        </navLabel>
+        <content src="Text/part0031.xhtml#cha27_27_1"/>
+        </navPoint>
+        <navPoint id="np_37" playOrder="37">
+        <navLabel>
+        <text>4</text>
+        </navLabel>
+        <content src="Text/part0032.xhtml#cha28_28_1"/>
+        </navPoint>
+        <navPoint id="np_38" playOrder="38">
+        <navLabel>
+        <text>5</text>
+        </navLabel>
+        <content src="Text/part0033.xhtml#cha29_29_1"/>
+        </navPoint>
+        <navPoint id="np_39" playOrder="39">
+        <navLabel>
+        <text>6</text>
+        </navLabel>
+        <content src="Text/part0034.xhtml#cha30_30_1"/>
+        </navPoint>
+        <navPoint id="np_40" playOrder="40">
+        <navLabel>
+        <text>7</text>
+        </navLabel>
+        <content src="Text/part0035.xhtml#cha31_31_1"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_41" playOrder="41">
+      <navLabel>
+      <text>Ⅵ. 黑暗中燃烧的篝火</text>
+      </navLabel>
+      <content src="Text/part0036.xhtml"/>
+        <navPoint id="np_42" playOrder="42">
+        <navLabel>
+        <text>1</text>
+        </navLabel>
+        <content src="Text/part0036.xhtml#isbn9787532763863_2_32_1"/>
+        </navPoint>
+        <navPoint id="np_43" playOrder="43">
+        <navLabel>
+        <text>2</text>
+        </navLabel>
+        <content src="Text/part0037.xhtml#cha33_33_1"/>
+        </navPoint>
+        <navPoint id="np_44" playOrder="44">
+        <navLabel>
+        <text>3</text>
+        </navLabel>
+        <content src="Text/part0038.xhtml#cha34_34_1"/>
+        </navPoint>
+        <navPoint id="np_45" playOrder="45">
+        <navLabel>
+        <text>4</text>
+        </navLabel>
+        <content src="Text/part0039.xhtml#cha35_35_1"/>
+        </navPoint>
+        <navPoint id="np_46" playOrder="46">
+        <navLabel>
+        <text>5</text>
+        </navLabel>
+        <content src="Text/part0040.xhtml#cha36_36_1"/>
+        </navPoint>
+        <navPoint id="np_47" playOrder="47">
+        <navLabel>
+        <text>6</text>
+        </navLabel>
+        <content src="Text/part0041.xhtml#cha37_37_1"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
